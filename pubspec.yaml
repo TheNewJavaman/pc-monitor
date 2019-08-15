@@ -1,0 +1,23 @@
+name: pc_monitor
+description: Works with OpenHardwareMonitor to deliver computer statistics.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.0
+  screen: ^0.0.4
+  xml2json: ^3.0.3
+  shared_preferences: ^0.4.3
+  scoped_model: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  http: ^0.12.0
+  screen: ^0.0.4
+  xml2json: ^3.0.3
+  shared_preferences: ^0.4.3
+  scoped_model: ^1.0.1
+
+flutter:
+  uses-material-design: true
